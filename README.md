@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This is a simple self-paced project to learn and master the basics of ReactJS, it's syntax and it's building components.
 
-#Happy Coding. :)
+# Happy Coding. :) 
 
 ## Available Scripts
 
